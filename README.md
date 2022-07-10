@@ -13,4 +13,4 @@ ratingcount: total number of reviews
 rating: Rating of product  
 price: Sell price  
 mrp: max retail price  
-*I have attached the scrapping code in this repository as well. Kindly refer to it for more information.* 
+*I have attached the scrapping code in this repository as well. Kindly refer to it for more information* 
